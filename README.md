@@ -66,13 +66,13 @@ This repository contains all the necessary files and resources for the project *
 ### Visualizations
 
 #### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/pnumonia_detection_confusion_matrix.jpg)
 
 #### ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/pnumonia_detection_roc_curve.jpg)
 
 #### Sample Predictions
-![Sample Prediction](images/sample_prediction.png)
+![Sample Prediction](images/pnumonia_detection_python.pdf-image-024.jpg)
 
 ---
 
